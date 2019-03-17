@@ -23,6 +23,10 @@ ul {
 .hobbies {
   color: brown;
 }
+.school {
+  color: red;
+  font-style: oblique;
+}
 body{
   dy {
    background-image: url("image/brayo.jpg");
