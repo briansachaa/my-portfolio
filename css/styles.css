@@ -30,6 +30,9 @@ ul {
 .course {
   color: blue;
 }
+img {
+  height: 200 px;
+}
 body{
   dy {
    background-image: url("image/desert.jpg");
