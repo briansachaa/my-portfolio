@@ -32,7 +32,10 @@ ul {
   color: blue;
 }
 img {
-  height: 200 px;
+  float:left;
+}
+body {
+  text-align:center;
 }
 body{
   dy {
