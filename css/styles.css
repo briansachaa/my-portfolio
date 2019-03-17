@@ -1,0 +1,27 @@
+h1{
+  color: green;
+  line-height: 200px;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  font-style: oblique;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+.interests {
+  border: 2px solid red;
+}
+.intro {
+  background-color: coral;
+}
+body{
+  dy {
+   background-image: url("image/brayo.jpg");
+   background-color: #cccccc;
+}
